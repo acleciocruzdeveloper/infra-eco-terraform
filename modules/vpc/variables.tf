@@ -41,5 +41,5 @@ variable "enable_vpn_gateway" {
 variable "default_tags" {
   type        = map(string)
   description = "Tags padrões utilizadas no build do recurso para identificação e finops."
-  default = {}
+  default     = {}
 }
