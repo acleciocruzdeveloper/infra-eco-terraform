@@ -13,7 +13,7 @@ Build Infra ECS using Terraform
 ### Linux para automação
 
 | Comando | Função                                                                   |
-| ------- | ------------------------------------------------------------------------ |****
+| ------- | ------------------------------------------------------------------------ |
 | mv      | move ou até renomeia                                                     |
 | wc      | auxilia na contagem de caracteres ou até mesmo nós em cluster kubernetes |
 | grep    | busca por padrões de caracteres                                          |
