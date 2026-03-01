@@ -12,12 +12,14 @@ Build Infra ECS using Terraform
 
 ### Linux para automação
 
-comando mv ->  move ou até renomeia
-
-comando wc -> auxilia na contagem de caracteres ou até mesmo nós em cluster kubernetes
-
-comando grep -> busca por padrões de caracteres 
-
-comando sort -> 
-
-comando cut -> 
+| Comando | Função                                                                   |
+| ------- | ------------------------------------------------------------------------ |****
+| mv      | move ou até renomeia                                                     |
+| wc      | auxilia na contagem de caracteres ou até mesmo nós em cluster kubernetes |
+| grep    | busca por padrões de caracteres                                          |
+| sort    | Descritivo                                                               |
+| cut     | Descritivo                                                               |
+| pwd     | devolve o diretório atual                                                |
+| rm      | remove um arquivo sem solicitar confirmção                               |
+| echo    | imprime uma mensagem no terminal                                         |
+| tail    | mostra a última linha de um "log" por exemplo                            |
