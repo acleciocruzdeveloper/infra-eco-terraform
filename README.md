@@ -1,4 +1,4 @@
-# infra-eco-terraform
+# infra-ecs-terraform
 Build Infra ECS using Terraform
 
 
