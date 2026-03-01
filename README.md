@@ -12,14 +12,16 @@ Build Infra ECS using Terraform
 
 ### Linux para automação
 
-| Comando | Função                                                                   |
-| ------- | ------------------------------------------------------------------------ |
-| mv      | move ou até renomeia                                                     |
-| wc      | auxilia na contagem de caracteres ou até mesmo nós em cluster kubernetes |
-| grep    | busca por padrões de caracteres                                          |
-| sort    | Descritivo                                                               |
-| cut     | Descritivo                                                               |
-| pwd     | devolve o diretório atual                                                |
-| rm      | remove um arquivo sem solicitar confirmção                               |
-| echo    | imprime uma mensagem no terminal                                         |
-| tail    | mostra a última linha de um "log" por exemplo                            |
+| Comando | Função                                                                   | Exemplo                   |
+| ------- | ------------------------------------------------------------------------ | ------------------------- |
+| mv      | move ou até renomeia                                                     |                           |
+| wc      | auxilia na contagem de caracteres ou até mesmo nós em cluster kubernetes |                           |
+| grep    | busca por padrões de caracteres                                          |                           |
+| sort    | Descritivo                                                               |                           |
+| cut     | Descritivo                                                               |                           |
+| pwd     | devolve o diretório atual                                                |                           |
+| rm      | remove um arquivo sem solicitar confirmção                               |                           |
+| echo    | imprime uma mensagem no terminal                                         |                           |
+| tail    | mostra a última linha de um "log" por exemplo                            |                           |
+| awk     | utilizando o parametro '{print $numero da coluna}' arquivo               | awk '{print $2}' dado.txt |
+| diff    | comando utilizado para comparar informações em arquivos                  | diff arquivo1 arquivo2    |
